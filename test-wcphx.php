@@ -7,5 +7,5 @@
  * Author:            Andy Fragen
  * Description:       This is a test plugin for WordCamp Phoenix 2016 demo. It is empty.
  * GitHub Plugin URI: afragen/test-wcphx
- * GitHub Branch:     master
+ * GitHub Branch:     develop
  */
